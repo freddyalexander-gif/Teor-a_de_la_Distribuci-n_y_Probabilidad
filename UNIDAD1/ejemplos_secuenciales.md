@@ -186,4 +186,5 @@ return 0;
 [🔢 Ir a los ejemplos](https://drive.google.com/drive/folders/1Xqky4Df5yLluXnuHkBSvUvoEFzRBBqPj?usp=sharing)
 
 
-[⬅️ Volver al índice de la Unidad 1](unidad1.md)
+[⬅️ Volver al índice de la Unidad 1](../unidad1.md)
+

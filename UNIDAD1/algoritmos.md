@@ -78,6 +78,6 @@ el lenguaje en los laboratorios Bell a comienzos de los años 70. El propósito 
 <img width="400" height="50" alt="image" src="https://github.com/user-attachments/assets/08c1e4db-51c2-42fb-9748-92704e84e425" />
 
 
-[⬅️ Volver al índice de la Unidad 1](unidad1.md)
+[⬅️ Volver al índice de la Unidad 1](../unidad1.md)
 
 

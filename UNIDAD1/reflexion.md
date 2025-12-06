@@ -6,4 +6,4 @@
 >***Captura Nro.1: Frase motivadora del programador Mark Zuckerberg***
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/38df106c-7730-424a-a626-8f2ca8dbd99c" />
 
-[⬅️ Volver al índice de la Unidad 1](unidad1.md)
+[⬅️ Volver al índice de la Unidad 1](../unidad1.md)

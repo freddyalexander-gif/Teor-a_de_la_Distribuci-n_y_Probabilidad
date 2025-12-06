@@ -20,5 +20,6 @@
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/ce37dc75-8d4f-4176-bd51-a421943c6628" />
 
-[⬅️ Volver al índice de la Unidad 1](unidad1.md)
+[⬅️ Volver al índice de la Unidad 1](../unidad1.md)
+
 

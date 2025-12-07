@@ -1,4 +1,4 @@
-<h1 align="center"> 💭 Reflexión Crítica — Unidad 1</h1>
+<h1 align="center"> 💭 Reflexión Crítica</h1>
 
 ---
 

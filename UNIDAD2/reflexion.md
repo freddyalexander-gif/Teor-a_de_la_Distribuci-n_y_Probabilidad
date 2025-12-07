@@ -1,5 +1,6 @@
-# 💭 Reflexión Crítica — Unidad 2
+<h1 align="center"> 💭 Reflexión Crítica — Unidad 2</h1>
 
+---
 >Al finalizar esta unidad comprendí que programar no consiste únicamente en escribir instrucciones, sino en tomar decisiones y automatizar procesos mediante lógica estructurada.
 
 >Las **estructuras condicionales (if, else, else-if)** me enseñaron que los programas deben reaccionar según diferentes escenarios, tal como ocurre en la vida real.
@@ -12,7 +13,10 @@
 
 >***Captura Nro.1: Frase motivadora del empresario Steve Jobs***
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/cbe6307b-0cd2-4801-88bb-ea10f56ec579" />
+<p align="center">
+  <em><img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/cbe6307b-0cd2-4801-88bb-ea10f56ec579" /></em>
+</p>
 
+---
 [⬅️ Volver al índice de la Unidad 2](../unidad2.md)
 

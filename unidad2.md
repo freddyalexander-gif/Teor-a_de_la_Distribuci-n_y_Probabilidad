@@ -7,9 +7,9 @@ En esta sección se presentan los contenidos organizados en archivos separados p
 
 ### 📑 Contenidos de la Unidad 2
 
-- [Estructuras condicionales](UNIDAD2/condicionales.md)
+- [Estructuras condicionales (if, else, else-if)](UNIDAD2/condicionales.md)
 
-- [Estructuras repetitivas](UNIDAD2/bucles.md)
+- [Estructuras repetitivas (while, do-while, for)](UNIDAD2/bucles.md)
 
 - [Ejercicio combinando estructura condicional y repetitiva](UNIDAD2/ejercicio_combinado.md)
 
@@ -18,7 +18,7 @@ En esta sección se presentan los contenidos organizados en archivos separados p
 - [Reflexión crítica](UNIDAD2/reflexion.md)
 
 - [Tareas Entregadas](UNIDAD2/tareas.md)
-
+ 
 ---
 
 - [⬅️ Volver al índice del Portafolio](index.md)

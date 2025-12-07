@@ -18,12 +18,12 @@ Cada enlace dirige al documento almacenado en **Google Drive** correspondiente a
 ---
 
 ### 💻 APE Nro.1: Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo
-> 🔗 [Ver Actividad Practica Experimental Nro.1](https://drive.google.com/file/d/1kK84w7PDTRQ6fNpkB6V7cqBiJOyCOOkB/view?usp=drive_link)
+> 🔗 [Ver Actividad Practico Experimental Nro.1](https://drive.google.com/file/d/1kK84w7PDTRQ6fNpkB6V7cqBiJOyCOOkB/view?usp=drive_link)
 
 ---
 
 ### 🔢 APE Nro.2: Del diseño del algoritmo con estructuras secuenciales a la construcción del programa.
->🔗 [Ver Actividad Practica Experimental Nro.2](https://drive.google.com/file/d/1SIrY9D0UiFqqkYR__jNYNJfy_PypMtJO/view?usp=drive_link)
+>🔗 [Ver Actividad Practico Experimental Nro.2](https://drive.google.com/file/d/1SIrY9D0UiFqqkYR__jNYNJfy_PypMtJO/view?usp=drive_link)
 
 ---
 

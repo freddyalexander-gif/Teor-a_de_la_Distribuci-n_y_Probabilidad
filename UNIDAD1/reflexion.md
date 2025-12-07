@@ -9,6 +9,8 @@
 
 >Las plataformas Pilas Bloques y Blockly Games también resultaron ser muy útiles. Me ayudaron a visualizar mejor los algoritmos y a resolver problemas de una manera más divertida, utilizando bloques en lugar de código. Esto hizo que el aprendizaje fuera más dinámico y práctico.
 
+>Por ende, esta unidad me enseñó que programar es pensar de forma lógica y ordenada. Herramientas como PSeInt, diagramas de flujo y las plataformas por bloques facilitaron la comprensión de los algoritmos, mientras que C me permitió ver cómo se convierten en programas reales. Fue un inicio fundamental para desarrollar un pensamiento computacional sólido.
+
 >***Captura Nro.1: Frase motivadora del programador Mark Zuckerberg***
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/38df106c-7730-424a-a626-8f2ca8dbd99c" />
 

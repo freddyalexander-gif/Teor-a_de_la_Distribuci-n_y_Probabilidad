@@ -1,4 +1,4 @@
-<h1 align="center"> ⚙️ Principales Dificultades - Unidad 1</h1>
+<h1 align="center"> ⚙️ Principales Dificultades</h1>
 
 ---
 

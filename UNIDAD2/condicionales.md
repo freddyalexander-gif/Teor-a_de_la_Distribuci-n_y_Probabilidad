@@ -20,7 +20,7 @@
 
 ### 💻 Ejercicio en C  
 
-```python
+```C
 #include <stdio.h>
 int main(){
 
@@ -64,7 +64,7 @@ int main(){
 
 ### 💻 Ejercicio en C
 
-```python
+```C
 #include <stdio.h>
 int main(){
 
@@ -106,7 +106,7 @@ int main(){
 </p>
 
 ### 💻 Ejercicio en C  
-```python
+```C
 #include <stdio.h>
 int main(){
 
@@ -154,7 +154,7 @@ Es más limpio y ordenado que usar muchos else if, pero solo funciona con:
 
 ### 💻 Ejercicio en C (Switch)  
 
-```python
+```C
 #include <stdio.h>
 
 int main() {

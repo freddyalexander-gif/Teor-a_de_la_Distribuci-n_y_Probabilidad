@@ -1,7 +1,7 @@
 
 ---
 
-<h1 align="center">📦 Tareas Entregadas — Unidad 1  </h1>
+<h1 align="center">📦 Tareas Entregadas</h1>
 
 >**En este apartado se encuentran las tareas presentadas durante la **Unidad 1: Algoritmos, Pseudocódigo y Diagramas de Flujo**.**  
 **Cada enlace dirige al documento almacenado en **Google Drive** correspondiente a las Actividades Autunomas y Actividades Practicas Experimentales.**

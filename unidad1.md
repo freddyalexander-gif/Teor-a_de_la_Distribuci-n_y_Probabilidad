@@ -1,28 +1,28 @@
+# 🧩 Unidad 2: Estructuras Algorítmicas de Control
 
-# 🧩 Unidad 1: Fundamentos de Algoritmos y programas
-
-Bienvenido a la Unidad 1 del Portafolio Digital de Teoría de la Programación.  
-Aquí se encontrará cada tema separado por archivos para una lectura más clara y ordenada.
+Bienvenido a la Unidad 2 del Portafolio Digital de Teoría de la Programación.  
+En esta sección se presentan los contenidos organizados en archivos separados para una lectura clara y ordenada.
 
 ---
 
-### 📑 Contenidos de la Unidad 1
+### 📑 Contenidos de la Unidad 2
 
-- [Algoritmos, pseudocódigo y diagrama de flujo](UNIDAD1/algoritmos.md)
-  
-- [Programación por bloques](UNIDAD1/programacion_bloques.md)
-  
-- [Ejemplos de algoritmos secuenciales](UNIDAD1/ejemplos_secuenciales.md)
-  
-- [Principales dificultades](UNIDAD1/dificultades.md)
-  
-- [Reflexión crítica](UNIDAD1/reflexion.md)
- 
-- [Tareas Entregadas](UNIDAD1/tareas.md)
+- [Estructuras condicionales](UNIDAD2/condicionales.md)
 
-------
+- [Estructuras repetitivas](UNIDAD2/bucles.md)
+
+- [Ejercicio combinando estructura condicional y repetitiva](UNIDAD2/ejercicio_combinado.md)
+
+- [Principales dificultades](UNIDAD2/dificultades.md)
+
+- [Reflexión crítica](UNIDAD2/reflexion.md)
+
+- [Tareas Entregadas](UNIDAD2/tareas.md)
+
+---
+
 - [⬅️ Volver al índice del Portafolio](index.md)
 
 ---
 
-> *“Programar no es escribir código, es aprender a pensar paso a paso.”*
+> *“Las estructuras de control permiten que un programa tome decisiones y repita acciones; allí comienza la verdadera lógica de la programación.”*

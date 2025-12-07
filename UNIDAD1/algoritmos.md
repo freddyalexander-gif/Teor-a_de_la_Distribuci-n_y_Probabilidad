@@ -84,7 +84,7 @@
 >El lenguaje de programación C fue creado por Dennis Ritchie y Brian Kernighan, los cuales son figuras importantes en el mundo de la informática, ellos elaboraron
 el lenguaje en los laboratorios Bell a comienzos de los años 70. El propósito de ellos fue desarrollar un lenguaje que uniera la potencia y rapidez del ensamblador con la claridad y facilidad de los lenguajes de alto nivel, permitiendo a si aprovechar al máximo los recursos del hardware y trabajar directamente con la memoria del sistema.
 >
->***Captura Nro.9: Ejemplo del Codigo en C***
+>***Captura Nro.7: Ejemplo del Codigo en C***
 
 <p align="center">
   <em><img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/a9aae6a6-e4ff-4ec6-aaa7-8ae2543d2bb7" /></em>
@@ -96,7 +96,7 @@ el lenguaje en los laboratorios Bell a comienzos de los años 70. El propósito 
 
 >Es importante realizar pruebas de escritorio porque nos permite comprobar, de manera sencilla y paso a paso, si un programa está funcionando como esperamos antes de ejecutarlo en la computadora, esto además nos ayuda a ver cómo cambian las variables, a detectar errores en la lógica o en los cálculos logrando así corregirlos a tiempo. Logrando evitar fallos en la ejecución, lo que nos ayuda a comprender mejor cómo fluye nuestro propio código y asegurar que los resultados finales sean correctos.
 
->***Captura Nro.9: Ejemplo del Codigo en C***
+>***Captura Nro.8: Ejemplo del Codigo en C***
 
 <p align="center">
   <em><img width="700" height="179" alt="image" src="https://github.com/user-attachments/assets/139aa0ba-7641-4abd-8e30-6cc65cdd1119" /></em>

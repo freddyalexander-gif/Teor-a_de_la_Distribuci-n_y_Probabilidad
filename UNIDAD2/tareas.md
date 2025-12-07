@@ -3,7 +3,6 @@
 <h1 align="center">📦 Tareas Entregadas </h1>
   
 >**En este apartado se encuentran las tareas presentadas durante la **Unidad 2: Estructuras Algorítmicas de Control**.**
-
 >**Cada enlace dirige al documento almacenado en **Google Drive**, correspondiente a Actividades Autónomas, Actividades Prácticas Experimentales o Actividades con el Docente.**
 
 ---

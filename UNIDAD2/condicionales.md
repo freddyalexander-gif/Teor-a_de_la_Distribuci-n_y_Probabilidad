@@ -53,14 +53,13 @@ int main(){
 
 ### 📘 Definición de las estructuras dobles
 
-<p align="center">
-  <em><img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/d394d7c4-ae9a-4388-a97d-ac48705274e4" /></em>
-</p>
-
 >•	**Estructura Doble (if-else):** Ayuda a tomar decisiones de dos caminos: si la condición es verdadera, ejecuta una acción; si es falsa, ejecuta una alternativa. Es la forma natural de decir "si pasa esto, hago esto; si no, hago lo otro".
 
 ### 📊 Ejercicio en Diagrama de Flujo  
 
+<p align="center">
+  <em><img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/d394d7c4-ae9a-4388-a97d-ac48705274e4" /></em>
+</p>
 
 ### 💻 Ejercicio en C
 

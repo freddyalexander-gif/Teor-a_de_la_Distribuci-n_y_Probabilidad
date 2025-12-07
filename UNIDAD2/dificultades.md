@@ -9,7 +9,7 @@
 
 ---
 
->*📸 **Captura Nro.1: Errores al trabajar estructuras condicionales***  
+>*Captura Nro.1: Errores al trabajar estructuras condicionales***  
 <p align="center">
   <em><img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/47cbb2c7-6611-4aeb-b2ea-7cc254bfe430" /></em>
 </p>
@@ -23,7 +23,7 @@
 
 ---
 
->*📸 **Captura Nro.2: Errores en la construcción de bucles en C***  
+>*Captura Nro.2: Errores en la construcción de bucles en C***  
 <p align="center">
   <em><img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/c60123e3-e7e8-4e89-b40c-832357abb45e" /></em>
 </p>
@@ -37,7 +37,7 @@
 
 ---
 
-> *📸 **Captura Nro.3: Ejecución de fórmulas lógicas en pseudocódigo*** 
+> *Captura Nro.3: Ejecución de fórmulas lógicas en pseudocódigo*** 
 <p align="center">
   <em><img width="1234" height="405" alt="image" src="https://github.com/user-attachments/assets/700cde87-1073-4a7c-9625-fd253f9f0645" /></em>
 </p>

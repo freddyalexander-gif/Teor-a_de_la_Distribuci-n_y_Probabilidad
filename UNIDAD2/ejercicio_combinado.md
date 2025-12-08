@@ -33,7 +33,7 @@
 
 ---
 
-<h2 align="center">🧩 Ejercicio Combinado</h2>
+<h2 align="center">🧩 Ejercicio Combinado "Python"</h2>
 
 >**Nombre del Ejercicio:** Simulador de Entrenamiento - League of Legends
 

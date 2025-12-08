@@ -14,7 +14,7 @@
 
 >•	**Python:** Es un lenguaje de programación orientado a objetos de alto nivel, conocido por su sintaxis fácil de leer y de interpretar, lo que lo hace ideal para prototipado rápido y tareas [7]. Es ampliamente utilizado en computación científica, desarrollo web y automatización, siendo considerado un lenguaje amigable para principiantes pero potente para desarrolladores expertos a nivel global .*
 
->*789io0p-iCaptura Nro.1: Sintaxis en Python (Hola, Mundo)***  
+>*Captura Nro.1: Sintaxis en Python (Hola, Mundo)***  
 <p align="center">
   <em><img width="1487" height="326" alt="image" src="https://github.com/user-attachments/assets/34d99061-4f80-45d8-9b67-2d5d2b5ae966" /></em>
 </p>

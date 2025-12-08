@@ -1,6 +1,7 @@
-# 📘 UNIVERSIDAD NACIONAL DE LOJA
+<h2 align="center"> <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/b0da725e-33f7-433f-8305-2052aced4993" />
 
-## 💻 Carrera: Ingeneria en Ciencias de la Computacion
+<h2 align="center"> 💻 Carrera: Ingeneria en Ciencias de la Computacion
+ 
 ### Asignatura: Teoría de la Programación  
 ### Ciclo: Nro. 1 
 ### Período Académico: Septiembre 2025 – Febrero 2026

@@ -160,7 +160,7 @@ for i in range(1, 6):
 
 <h3 align="center">✔️ Verificación </h3>
 
->*Captura Nro.3: Verificación de la Ejecución***
+>*Captura Nro.3-4-5: Verificación de la Ejecución***
 
 <p align="center">
   <em><img width="631" height="846" alt="image" src="https://github.com/user-attachments/assets/955eee93-65cc-408c-a39b-aac7e4b3dd8e" /></em>

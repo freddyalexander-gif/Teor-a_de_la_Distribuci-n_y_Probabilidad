@@ -14,7 +14,7 @@
 
 >•	**Python:** Es un lenguaje de programación orientado a objetos de alto nivel, conocido por su sintaxis fácil de leer y de interpretar, lo que lo hace ideal para prototipado rápido y tareas [7]. Es ampliamente utilizado en computación científica, desarrollo web y automatización, siendo considerado un lenguaje amigable para principiantes pero potente para desarrolladores expertos a nivel global .*
 
->*Captura Nro.1: Sintaxis en Python (Hola, Mundo)* 
+>***Captura Nro.1: Sintaxis en Python (Hola, Mundo)***
 <p align="center">
   <em><img width="1487" height="326" alt="image" src="https://github.com/user-attachments/assets/34d99061-4f80-45d8-9b67-2d5d2b5ae966" /></em>
 </p>
@@ -25,7 +25,9 @@
 
 >•	Java: Es una plataforma informática y lenguaje de programación que reduce costos y tiempos de desarrollo, impulsando la innovación mediante servicios de aplicación robustos [8]. Se destaca por ser la plataforma de elección para empresas y desarrolladores debido a su fiabilidad y seguridad, permitiendo ejecutar aplicaciones tanto en entornos de escritorio como en grandes sistemas empresariales.
 
->*Captura Nro.2: Sintaxis en Java (Hola, Mundo)***  <p align="center">
+>***Captura Nro.2: Sintaxis en Java (Hola, Mundo)***
+
+><p align="center">
   <em><img width="639" height="398" alt="image" src="https://github.com/user-attachments/assets/95d3e232-29b8-4728-862f-c7819fd2abb5" /></em>
 </p>
 
@@ -160,7 +162,7 @@ for i in range(1, 6):
 
 <h3 align="center">✔️ Verificación </h3>
 
->*Captura Nro.3-4-5: Verificación de la Ejecución***
+>***Captura Nro.3-4-5: Verificación de la Ejecución***
 
 <p align="center">
   <em><img width="631" height="846" alt="image" src="https://github.com/user-attachments/assets/955eee93-65cc-408c-a39b-aac7e4b3dd8e" /></em>

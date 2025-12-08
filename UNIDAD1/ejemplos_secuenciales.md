@@ -1,23 +1,29 @@
+<h1 align="center">🔢 Ejemplos de Algoritmos con Estructuras Secuenciales  </h1>
 
-# 🔢 Ejemplos de Algoritmos con Estructuras Secuenciales  
-
-Desarrollé ejercicios en **PSeInt** y **C**, aplicando instrucciones en orden.  
+---
+>Desarrollé ejercicios en **PSeInt** y **C**, aplicando instrucciones en orden.  
 
 >En esta unidad realice varios ejercicios para aplicar los algoritmos secuenciales, donde las instrucciones se ejecutan unas tras otra en orden. A continuación, presento dos ejemplos que se desarrolle en PSeInt y luego en C.
 
 >***Captura Nro.1-2: Ejemplos de la estrucutura del pseudocodigo en PseInt y C***
+<p align="center">
+  <em><img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/367c94dc-61ef-4d71-b5d5-59b3cc8ea438" /></em>
+</p>
 
-<img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/367c94dc-61ef-4d71-b5d5-59b3cc8ea438" />
-<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/10b93e4c-7a5d-40af-9048-18778bc83aa7" />
+<p align="center">
+  <em><img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/10b93e4c-7a5d-40af-9048-18778bc83aa7" /></em>
+</p>
 
+---
 
-### 🧮 Ejemplos de Pseudocódigo PSeInt y C
+<h2 align="center">🧮 Ejemplos de Pseudocódigo PSeInt y C</h2>
+
 #### Ejercicio Nro.1 Calcular el Tiempo y Aceleracion de un Vehiculo.
 >El primer ejercicio consiste en calcular el tiempo que tarda un vehículo en recorrer una distancia. Tenía los datos de la fuerza, la masa y las velocidades inicial y finales. Usando las fórmulas de la física, calcula la aceleración y luego el tiempo con la ecuación. El algoritmo siguió tres pasos: en la entrada recibe los datos de la fuerza, masa, velocidades inicial y final, en el proceso realizada los cálculos en las respectivas formulas y la salida muestra el valor de la aceleración y tiempo. Este ejercicio me ayudó a ver cómo las fórmulas se pueden convertir en pasos lógicos dentro de un programa.
 
 ***Pseudocodigo de PseInt***
 
-```python
+```C
 Algoritmo Calcular_el_Tiempo_Aceleracion_de_un_Vehiculo
 	//1.Un usuario quiere determinar el tiempo que tarde en recorrer su vehículo, 
 	// pero solo consta con los datos de la fuerza "N", la masa "Kg" de su vehículo, 
@@ -50,20 +56,33 @@ Algoritmo Calcular_el_Tiempo_Aceleracion_de_un_Vehiculo
 	Escribir "El tiempo de su vehiculo es (s) ", tiempo_vehiculo;
 FinAlgoritmo
 ```
+---
 >***Captura Nro.3: Diagrama de Flujo***
 
-<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/0c029f87-4d1d-481f-8e07-820aecc7bb25" />
+<p align="center">
+  <em><img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/0c029f87-4d1d-481f-8e07-820aecc7bb25" /></em>
+</p>
+
+---
 
 >***Captura Nro.4: Pruebas de Escritorio***
 
-<img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/b4b91e0e-adeb-4a71-8eec-1ac3843dfeb0" />
+<p align="center">
+  <em><img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/b4b91e0e-adeb-4a71-8eec-1ac3843dfeb0" /></em>
+</p>
+
+---
 
 >***Captura Nro.5: Ejecucion en PseInt***
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/904cd076-9437-423f-9e89-34cdc9dbc4f8" />
+<p align="center">
+  <em><img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/904cd076-9437-423f-9e89-34cdc9dbc4f8" /></em>
+</p>
+
+---
 
 ***Codigo  en C***
-```python
+```C
 /*1.Un usuario quiere determinar el tiempo que tarde en recorrer su vehículo, pero 
 solo consta con los datos de la fuerza "N", la masa "Kg" de su vehículo, también 
 con la velocidad inicial "m/s" y la velocidad final "m/s", realizar un programa 
@@ -97,11 +116,15 @@ return 0;
 }
 
 ```
+---
 
 >***Captura Nro.6: Ejecucion en C***
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/245b8092-b440-4702-8e01-562c40dd3c8f" />
+<p align="center">
+  <em><img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/245b8092-b440-4702-8e01-562c40dd3c8f" /></em>
+</p>
 
+---
 
 #### Ejercicio Nro.2 Porcentaje de Poder
 >El segundo ejercicio fue mas creativo: calcular el poder total de un personaje de videojuego. Su poder aumentaba un 55% pero los enemigos lo reducían un 30%. El programa debía mostrar el poder final después de aplicar ambos porcentajes. En este algoritmo, la entrada es el poder base del personaje. Durante el proceso, se calcula primero el aumento del 55%, luego se suma al poder base y después se aplica una reducción del 30% causada por los enemigos. Finalmente, la salida muestra el poder total que tendrá el personaje al finalizar la batalla.
@@ -131,17 +154,27 @@ Algoritmo Porcentalidad_Poder
 	
 FinAlgoritmo
 ```
+
+---
+
 >***Captura Nro.8: Diagrama de Flujo***
 
-<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/5070720f-bdae-44ec-b70f-da9d2b6918e8" />
+<p align="center">
+  <em><img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/5070720f-bdae-44ec-b70f-da9d2b6918e8" /></em>
+</p>
 
 >***Captura Nro.10: Pruebas de Escritorio***
 
-<img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/59e290c9-6a64-4197-8a6f-97542d820c2b" />
+<p align="center">
+  <em><img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/59e290c9-6a64-4197-8a6f-97542d820c2b" /></em>
+</p>
 
 >***Captura Nro.9: Ejecucion en Pseint***
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/24afbf7a-6ec8-440c-8dd9-89df90f45187" />
+<p align="center">
+  <em><img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/24afbf7a-6ec8-440c-8dd9-89df90f45187" />
+</em>
+</p>
 
 ***Codigo de C***
 ```python
@@ -175,11 +208,9 @@ return 0;
 
 >***Captura Nro.9: Ejecucion en C***
 
-
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/a176a0d9-92e5-426f-a852-613c7df3ef18" />
-
-
-
+<p align="center">
+  <em><img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/a176a0d9-92e5-426f-a852-613c7df3ef18" /></em>
+</p>
 
 >Los escribí primero en PSeInt, para comprobar la lógica, y luego lo programé en C, viendo cómo los cálculos se mostraban correctamente en pantalla. Ambos ejercicios me ayudaron a reforzar el pensamiento lógico, la secuencia de pasos y la forma en que los programas funcionan internamente para resolver problemas reales y cotidianos.
 

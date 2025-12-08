@@ -49,15 +49,36 @@
 
 ## 📚 Referencias 
 
+---
+
 ### 🧩 Unidad 1  
 
->[1] J. Joyanes Aguilar, Fundamentos de programación: algoritmos, estructuras de datos y objetos, 3rd ed., McGraw-Hill, Madrid, 2021.
+>[1] E. Hernández-Salazar y C. A. Beltrán, "SCRUM, Un enfoque práctico de metodología ágil para la ingeniería de software," Revista Tecnol. Investig. Academia TIA, vol. 8, no. 2, pp. 61-73, 2020.
 
->[2] C. Hernández and M. Roldán, Lógica y algoritmos computacionales, Alfaomega, México D.F., 2022.
 
->[3] R. Pressman and B. Maxim, Ingeniería del software: un enfoque práctico, 9th ed., McGraw-Hill, New York, 2020.
+>*"Disponible: https://www.bibliotecaenlinea.universidaddorados.edu.mx/informatica/Analisis%20Diseno%20e%20Implementacion%20de%20Algoritmos/37009237-Libro-Diseno-de-algoritmos.pdf"*
 
->[4] A. Moreno, L. Cedeño and P. Vega, “Enseñanza de algoritmos mediante programación visual con bloques,” Revista Iberoamericana de Educación en Tecnología y Tecnología Educativa, vol. 28, pp. 45–54, 2021.
+
+
+>[2] M. Storti, J. D'Elía, R. Paz, L. Dalcín y M. Pucheta, Algoritmos y Estructuras de Datos. Santa Fe, Argentina: Universidad Nacional del Litoral, 2012.
+
+>*"Disponible: https://share.google/nOYA5wVSvBSdKpGZc"*
+
+
+
+>[3] A. Salgado Castillo, I. Alonso Berenguer, A. Gorina Sánchez e Y. Tardo Fernández, "Lógica algorítmica para la resolución de problemas de programación computacional: una propuesta didáctica," Didasc@lia: Didáctica y Educación, vol. 4, no. 1, pp. 57-76, 2013.
+
+>*"Disponible: https://es.scribd.com/document/625817744/aabucharp-SCRUM2020-1"*
+
+
+
+
+>[4] A. E. Ortiz Yumisaca, "Propuesta didáctica para el desarrollo del Pensamiento Computacional mediante la programación visual por bloques," Tesis de Licenciatura, Facultad de Ciencias de la Educación, Humanas y Tecnologías, Univ. Nacional de Chimborazo, Riobamba, Ecuador, 2024
+
+>*"Disponible: http://dspace.unach.edu.ec/bitstream/51000/12692/1/UNACH-EC-FCEHT-PCEINF-009-2024.pdf"*
+
+
+---
 
 ### 🧩 Unidad 2
 
@@ -85,3 +106,4 @@
 
 ### 🧩 Unidad 2
 
+>"Durante el desarrollo de la Unidad 2, utilicé la IA como una herramienta de apoyo para organizar mejor mis ideas y mejorar la redacción. Quiero aclarar que me sirvió de guía para estructurar el contenido, pero no reemplazó mi estudio. Todo lo que presento aquí ha sido revisado por mí y refleja mi propio aprendizaje y criterio."

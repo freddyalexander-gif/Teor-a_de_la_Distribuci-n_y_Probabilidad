@@ -39,8 +39,10 @@
 
 > ***Captura Nro.3: Ejecución de fórmulas lógicas en pseudocódigo*** 
 <p align="center">
-  <em><<img width="1256" height="267" alt="image" src="https://github.com/user-attachments/assets/0b6ea988-c4af-4cb7-9059-b371f2d99322" /></em>
+  <em><img width="1134" height="429" alt="image" src="https://github.com/user-attachments/assets/ef8b0904-9a30-47e9-a174-4e08dc3c64b1" /></em>
 </p>
+
+
 
 
 ---

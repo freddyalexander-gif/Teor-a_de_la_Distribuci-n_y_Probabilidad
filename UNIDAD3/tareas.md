@@ -22,7 +22,7 @@
 ---
 
 ### 🔢 APE Nro.2: 
->🔗 [Ver Actividad Práctico Experimental Nro.2](https://drive.google.com/file/d/13xumMt-QcCnlK55RuBNXUTFPrR7icSRt/view?usp=sharing)
+>🔗 [Ver Actividad Práctico Experimental Nro.2]()
 
 ---
 

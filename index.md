@@ -97,6 +97,19 @@
 
 >*"Disponible: https://www.java.com/es/download/help/whatis_java.html"*
 
+---
+
+### 🧩 Unidad 3
+
+>[9] L. Carrasquero, "Programación Modular," SlideShare, s.f. [En línea]. Disponible en:
+*"https://es.slideshare.net/slideshow/programacion-modular-248342688/248342688."*
+
+>[10] A. Melian, "Diferencia entre parámetro por valor y referencia," Medium, 15-ene-2023. [En línea]. Disponible en: *"https://medium.com/@alexandermelian/diferencia-entre-parametro-por-valor-y-referencia-20b8e78f597a."*
+
+>[11] INESEM Business School, "Arrays: Qué son y para qué sirven," Revista Digital INESEM, s.f. [En línea]. Disponible en: *"https://www.inesem.es/revistadigital/informatica-y-tics/arrays. "*
+
+>[12] Centro de Investigación en Matemáticas (CIMAT), "Tipos de arreglos," en Curso de Lenguajes de Programación, 2010. [En línea]. Disponible en: *"https://www.cimat.mx/~pepe/cursos/lenguaje_2010/slides/slide_31.pdf."*
+
 
 
 ## 🤖 Uso de Inteligencia Artificial  
@@ -108,3 +121,8 @@
 ### 🧩 Unidad 2
 
 >"Durante el desarrollo de la Unidad 2, utilicé la IA como una herramienta de apoyo para organizar mejor mis ideas y mejorar la redacción. Quiero aclarar que me sirvió de guía para estructurar el contenido, pero no reemplazó mi estudio. Todo lo que presento aquí ha sido revisado por mí y refleja mi propio aprendizaje y criterio."
+
+### 🧩 Unidad 3
+
+>Durante el desarrollo de la Unidad 3, utilicé herramientas de inteligencia artificial generativa como apoyo académico para reforzar la comprensión de los contenidos teóricos relacionados con la programación modular, los parámetros por valor y por referencia y el manejo de arreglos. La IA fue empleada como un recurso de consulta para aclarar conceptos, mejorar la redacción de explicaciones y organizar de manera más clara la información.
+

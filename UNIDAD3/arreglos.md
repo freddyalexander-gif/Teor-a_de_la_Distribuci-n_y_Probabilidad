@@ -1,4 +1,4 @@
-<img width="623" height="192" alt="image" src="https://github.com/user-attachments/assets/6bf4a6f1-1863-4de8-b186-9f2aa50853ff" /><h1 align="center">📦 Arreglos (Arrays)</h1>
+<h1 align="center">📦 Arreglos (Arrays)</h1>
 
 ---
 
@@ -107,5 +107,22 @@
 </p
   
 --- 
+---
+
+<h3 align="center">🧊  Cadenas de Caracteres (Strings)</h3>
+
+>Una cadena se define como una sucesión lineal de caracteres destinada a la manipulación de texto. Su implementación varía drásticamente según el nivel del lenguaje:
+
+>En C (Bajo Nivel): Se gestionan como arreglos estáticos de tipo char. Su longitud no se almacena explícitamente, sino que se delimita mediante un carácter centinela nulo al final.
+
+>En Java (Alto Nivel): Se encapsulan dentro de la clase String. Esto trata al texto como un objeto inmutable, abstrayendo la gestión de memoria y facilitando su manipulación mediante métodos integrados."
+
+<h3 align="center">💻 Ejemplo del Código</h3>
+
+>***Captura Nro. 11: El siguiente codigo muestra como se debe declar una cadena de caracteres y su debida ejecucion***
+
+<p align="center">
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/60ec2c2a-8f1c-4d03-b710-1e6ac89f0829" />
+</p
 
 [⬅️ Volver al índice de la Unidad 3](../unidad3.md)

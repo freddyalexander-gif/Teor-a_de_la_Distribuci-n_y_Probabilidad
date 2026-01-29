@@ -2,47 +2,30 @@
 
 ---
 
-## 🔁 1. Comprender las estructuras condicionales  
->Una de las dificultades más grandes fue entender cómo funciona una condición dentro de otra, o un ciclo dentro de otro.  
->Al principio perdía el control del flujo del programa y cerraba las llaves `{ }` en lugares incorrectos, lo que dañaba toda la lógica.  
->Con práctica, aprendí a identificar qué bloque se ejecuta y en qué orden, logrando mayor claridad al programar.
-
+## 🔁 1. Comprensión de los parámetros por valor y por referencia
+>Una de las principales dificultades durante esta unidad fue entender con claridad la diferencia entre los parámetros por valor y por referencia. Al inicio resultaba confuso identificar cuándo una variable se modificaba realmente y cuándo solo se trabajaba con una copia del dato. Esto hizo necesario analizar con más atención el flujo de información entre los módulos para comprender cómo se transmiten y afectan los datos dentro del programa.
 ---
 
->***Captura Nro.1: Errores al trabajar estructuras condicionales***  
+>***Captura Nro.1: Errores al trabajar parametros***  
 <p align="center">
-  <em><img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/47cbb2c7-6611-4aeb-b2ea-7cc254bfe430" /></em>
+  <em><img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/0c8db180-8cd1-4e25-a423-c446ed0a59e1" /></em>
 </p>
 
----
-
-## 🔄 2. Evitar bucles infinitos  
->En los ejercicios con ciclos **while**, cometí varias veces el error de no actualizar correctamente la variable de control.  
->Esto provocaba bucles infinitos que dejaban el programa ejecutándose sin detenerse.  
->Aprendí a revisar siempre la condición de salida, la actualización del contador y la ubicación del incremento o decremento para evitar este tipo de errores.
-
----
-
->***Captura Nro.2: Errores en la construcción de bucles en C***  
 <p align="center">
-  <em><img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/c60123e3-e7e8-4e89-b40c-832357abb45e" /></em>
+  <em><img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/a3b6d03c-81ee-4b14-b62d-a08d16f22b9c" /></em>
 </p>
-
 ---
 
-## 🧮 3. Pasar de la teoría a la implementación (especialmente con contadores y acumuladores)  
->Transformar las fórmulas, diagramas y algoritmos en código real fue un reto, pero donde encontré mayor dificultad fue en el uso correcto de **contadores y acumuladores** dentro de los bucles.  
->A veces los contadores no aumentaban como debía, o los acumuladores no sumaban correctamente, lo que generaba cálculos incorrectos o ciclos incompletos.  
->Con práctica entendí en qué parte del ciclo debía actualizar cada variable y cómo controlar el flujo para obtener resultados correctos.
+## 🔄 2. Manejo de arreglos multidimensionales
 
+>Otra dificultad importante fue el manejo de los arreglos, especialmente los bidimensionales y tridimensionales, debido a su estructura más compleja. Visualizar correctamente las posiciones, índices y dimensiones de estos arreglos representó un reto, ya que un pequeño error podía afectar el resultado final. Con la práctica y la revisión constante, fue posible mejorar la organización y el uso adecuado de estas estructuras de datos.
 ---
 
-> ***Captura Nro.3: Ejecución de fórmulas lógicas en pseudocódigo*** 
+>***Captura Nro.2: Errores con los arreglos***  
 <p align="center">
-  <em><img width="1134" height="429" alt="image" src="https://github.com/user-attachments/assets/ef8b0904-9a30-47e9-a174-4e08dc3c64b1" /></em>
+  <em><img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/14722b4a-7a59-4535-97bc-8f532775b8f2" />
+</em>
 </p>
-
-
 
 
 ---

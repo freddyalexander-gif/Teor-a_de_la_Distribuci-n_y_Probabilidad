@@ -45,6 +45,9 @@
 ---
 
 ## 📘 Conclusiones  
+
+### [Ir a Conclusiones](conclusiones.md)
+
  
 ---
 

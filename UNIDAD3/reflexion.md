@@ -1,20 +1,18 @@
-<h1 align="center"> 💭 Reflexión Crítica — Unidad 2</h1>
+<h1 align="center"> 💭 Reflexión Crítica — Unidad 3</h1>
 
 ---
->Al finalizar esta unidad comprendí que programar no consiste únicamente en escribir instrucciones, sino en tomar decisiones y automatizar procesos mediante lógica estructurada.
+>Durante el desarrollo de esta unidad aprendí la importancia de la programación modular para organizar mejor los programas, ya que dividirlos en módulos facilita su comprensión, mantenimiento y corrección de errores. Además, comprender el uso de los parámetros por valor y por referencia me permitió entender cómo se transmite la información entre los módulos y cómo controlar los cambios en las variables.
 
->Las **estructuras condicionales (if, else, else-if)** me enseñaron que los programas deben reaccionar según diferentes escenarios, tal como ocurre en la vida real.
+>El estudio de los arreglos y sus distintos tipos, como los unidimensionales, bidimensionales y tridimensionales, fortaleció mi capacidad para manejar grandes cantidades de datos de forma ordenada. Aunque al inicio fue complejo comprender su estructura, con la práctica logré visualizar mejor sus dimensiones y utilizar correctamente los índices..
 
->Las **estructuras repetitivas (while, do-while, for)** me mostraron el poder de la automatización: acciones que serían tediosas de realizar manualmente, la computadora las ejecuta en milisegundos cuando la lógica está bien planteada.
-
->En conclusión, esta unidad me permitió pasar de crear programas lineales a desarrollar soluciones más dinámicas, flexibles y eficientes. El ejercicio combinado fue esencial para integrar todo lo aprendido, demostrando que con un buen análisis y paciencia, cualquier problema computacional puede resolverse.
+>En conclusión, esta unidad contribuyó al desarrollo de un pensamiento más lógico y estructurado, permitiéndome diseñar programas más claros y eficientes. Los conocimientos adquiridos sobre modularidad, parámetros y arreglos constituyen una base sólida para abordar problemas de programación más complejos en el futuro.
 
 ---
 
->***Captura Nro.1: Frase motivadora del empresario Steve Jobs***
+>***Captura Nro.1: Frase motivadora del empresario Elon Musk***
 
 <p align="center">
-  <em><img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/cbe6307b-0cd2-4801-88bb-ea10f56ec579" /></em>
+  <em><img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ce96787d-0c7c-409e-9101-3c01ec71bbfe" /></em>
 </p>
 
 ---

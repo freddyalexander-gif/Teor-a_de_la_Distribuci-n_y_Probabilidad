@@ -45,3 +45,6 @@
 >Este recorrido me ha dado la confianza para analizar un problema desde cero y transformarlo en una solución eficiente.  
 >Hoy entiendo que la base de cualquier buen programa no es solo el código, sino una **lógica sólida**, un **diseño ordenado** y una **actitud constante de aprendizaje**.  
 >Me siento preparado para enfrentar retos más grandes dentro del mundo de la programación.
+
+---
+ [⬅️ Volver al índice del Portafolio](index.md)

@@ -14,9 +14,9 @@
 ---
 
 ## 📂 Portafolio Digital de Aprendizaje
-El presente repositorio constituye un portafolio digital de evidencias, diseñado para documentar de manera sistemática el proceso de aprendizaje en la asignatura de **Teoría de la Probabilidad y Distribución**.
+> El presente repositorio constituye un portafolio digital de evidencias, diseñado para documentar de manera sistemática el proceso de aprendizaje en la asignatura de **Teoría de la Probabilidad y Distribución**.
 
-Este espacio tiene como propósito fundamental registrar y consolidar las **Actividades de Aprendizaje Práctico Experimental (APE)**, reflejando la aplicación técnica de los conceptos teóricos abordados en clase. A través de este entorno, se evidencia la resolución de problemas, el modelado probabilístico y la experimentación con variables aleatorias, permitiendo un seguimiento claro de mi desarrollo competencial a lo largo del ciclo académico.
+> Este espacio tiene como propósito fundamental registrar y consolidar las **Actividades de Aprendizaje Práctico Experimental (APE)**, reflejando la aplicación técnica de los conceptos teóricos abordados en clase. A través de este entorno, se evidencia la resolución de problemas, el modelado probabilístico y la experimentación con variables aleatorias, permitiendo un seguimiento claro de mi desarrollo competencial a lo largo del ciclo académico.
 
 ### 🧩 Unidades del Portafolio
 *Selecciona una unidad para inspeccionar las actividades de aprendizaje práctico experimental (APE):*

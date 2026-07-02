@@ -1,32 +1,29 @@
-# 🧩 Unidad 1: Introducción a la Probabilidad. Modelos Probabilísticos
+<h1 align="center"> 🧩 Unidad 1: Introducción a la Probabilidad y Modelos Probabilísticos </h1>
 
-Bienvenido a la Unidad 1 del Portafolio Digital de **Teoría de la Probabilidad y Distribución**.  
-En este espacio se recopilan las evidencias de las **Actividades de Aprendizaje Práctico Experimental (APE)** desarrolladas durante esta unidad.
-
----
-
-### 📂 Actividades Prácticas (APE)
-
-| Actividad | Acceso al Notebook |
-| :--- | :--- |
-| **APE 00** | [📁 APE00_GrupoC.ipynb](UNIDAD1/APE00_GrupoC.ipynb) |
-| **APE 01** | [📁 APE01_GrupoC.ipynb](UNIDAD1/APE01_GrupoC.ipynb) |
-| **APE 02** | [📁 APE02_GrupoC.ipynb](UNIDAD1/APE02_GrupoC.ipynb) |
-| **APE 03** | [📁 APE03_GrupoC.ipynb](UNIDAD1/APE03_GrupoC.ipynb) |
-| **APE 04** | [📁 APE04_GrupoC.ipynb](UNIDAD1/APE04_GrupoC.ipynb) |
-| **APE 05** | [📁 APE05_GrupoC.ipynb](UNIDAD1/APE05_GrupoC.ipynb) |
+> **Bienvenido al repositorio de evidencias.**
+> Este espacio ha sido diseñado para centralizar de manera técnica y ordenada las **Actividades de Aprendizaje Práctico Experimental (APE)** de la asignatura de *Teoría de la Probabilidad y Distribución*. Aquí encontrarás el desarrollo, análisis y resolución de ejercicios prácticos implementados en esta unidad.
 
 ---
 
-### 📑 Documentación Complementaria
-- [📖 Reflexión crítica](UNIDAD1/reflexion.md)
-- [📝 Tareas Entregadas](UNIDAD1/tareas.md)
+### 🚀 Acceso Directo a Actividades (APE)
+
+| Actividad | Descripción | Enlace al Notebook |
+| :--- | :--- | :--- |
+| **APE 00** | Fundamentos de Probabilidad y Espacios Muestrales | [💻 Ver Notebook](UNIDAD1/APE00_GrupoC.ipynb) |
+| **APE 01** | Variables Aleatorias y Distribuciones de Probabilidad | [💻 Ver Notebook](UNIDAD1/APE01_GrupoC.ipynb) |
+| **APE 02** | Distribuciones Muestrales y Teorema del Limite Central | [💻 Ver Notebook](UNIDAD1/APE02_GrupoC.ipynb) |
+| **APE 03** | Variables Aleatorias Discretas y Continuas | [💻 Ver Notebook](UNIDAD1/APE03_GrupoC.ipynb) |
+| **APE 04** | Momentos Estadísticos y Análisis de Tendencia Central con Python | [💻 Ver Notebook](UNIDAD1/APE04_GrupoC.ipynb) |
+| **APE 05** | Distribuciones Discretas Notables. | [💻 Ver Notebook](UNIDAD1/APE05_GrupoC.ipynb) |
 
 ---
 
-### 🧭 Navegación
-[⬅️ Volver al índice del Portafolio](index.md)
+
+
+<div align="center">
+  
+[⬅️ Volver al Índice Principal](index.md)
 
 ---
-
-> *"La probabilidad nos permite entender la incertidumbre y tomar mejores decisiones basadas en datos."*
+*“La probabilidad nos permite cuantificar la incertidumbre en los sistemas computacionales.”*
+</div>

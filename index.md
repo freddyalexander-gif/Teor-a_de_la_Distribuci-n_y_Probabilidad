@@ -36,17 +36,21 @@
   </tr>
 </table>
 
----
-
-
 ## 📘 Conclusiones
+> El desarrollo de este portafolio ha permitido consolidar los conocimientos teóricos adquiridos en la asignatura de **Teoría de la Probabilidad y Distribución**, transformándolos en habilidades prácticas mediante el uso de herramientas computacionales. A través de las **Actividades de Aprendizaje Práctico Experimental (APE)**, se concluye lo siguiente:
+
+> * **Aplicabilidad técnica:** La implementación de modelos probabilísticos mediante programación permite una comprensión profunda de cómo la estadística sustenta la toma de decisiones en el ámbito de la computación.
+> * **Pensamiento analítico:** El estudio de variables aleatorias y sus funciones ha fortalecido mi capacidad para modelar sistemas bajo incertidumbre, un pilar fundamental en la ingeniería de software y el análisis de datos.
+> * **Integración de herramientas:** El uso sistemático de entornos de desarrollo (como Google Colab y Python) ha optimizado mi flujo de trabajo, permitiendo una documentación más técnica y reproducible.
 
 ---
 
 ## 📚 Referencias
+*Esta sección compila las fuentes bibliográficas y recursos digitales que fundamentaron el desarrollo de las actividades experimentales.*
 
-
----
-
-
-
+| Referencia | Fuente |
+| :--- | :--- |
+| **[1]** | E. Hernández-Salazar y C. A. Beltrán, "SCRUM, Un enfoque práctico de metodología ágil," 2020. |
+| **[2]** | M. Storti et al., "Algoritmos y Estructuras de Datos," Universidad Nacional del Litoral, 2012. |
+| **[3]** | A. Salgado Castillo et al., "Lógica algorítmica para la resolución de problemas," 2013. |
+| **[4]** | A. E. Ortiz Yumisaca, "Pensamiento Computacional mediante programación visual," 2024. |

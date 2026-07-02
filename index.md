@@ -4,19 +4,19 @@
 
 ### 📊 Asignatura: Teoría de la Probabilidad y Distribución
 ### 🔢 Ciclo: Nro. 2
-### 🗓️ Período Académico: Septiembre 2025 – Febrero 2026
+### 🗓️ Período Académico: Abril- Agosto 2025-2026
 
 ---
 
-### 🧑‍🏫 Docente: Ing. Lissette Geoconda López Faicán
+### 🧑‍🏫 Docente: Ing. Cristian Ramiro Narváez Guillén
 ### 👨‍🎓 Estudiante: Freddy Alexander Ordoñez Gonzalez
 
 ---
 
 ## 📂 Portafolio Digital de Aprendizaje
-*Este portafolio recopila las evidencias, reflexiones y actividades desarrolladas a lo largo de la asignatura **Teoría de la Probabilidad y Distribución**.*
+El presente repositorio constituye un portafolio digital de evidencias, diseñado para documentar de manera sistemática el proceso de aprendizaje en la asignatura de **Teoría de la Probabilidad y Distribución**.
 
-## 📚 Unidades de Aprendizaje
+Este espacio tiene como propósito fundamental registrar y consolidar las **Actividades de Aprendizaje Práctico Experimental (APE)**, reflejando la aplicación técnica de los conceptos teóricos abordados en clase. A través de este entorno, se evidencia la resolución de problemas, el modelado probabilístico y la experimentación con variables aleatorias, permitiendo un seguimiento claro de mi desarrollo competencial a lo largo del ciclo académico.
 
 ### 🧩 Unidades del Portafolio
 *Selecciona una unidad para inspeccionar las actividades de aprendizaje práctico experimental (APE):*
@@ -44,9 +44,9 @@
 ---
 
 ## 📚 Referencias
-*(Aquí mantén tu lista de referencias original)*
+
 
 ---
 
-## 🤖 Uso de Inteligencia Artificial 
-*(Aquí mantén tus notas sobre el uso de IA)*
+
+

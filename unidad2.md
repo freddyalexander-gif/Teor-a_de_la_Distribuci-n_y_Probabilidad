@@ -1,28 +1,26 @@
-# 🧩 Unidad 2: Estructuras Algorítmicas de Control
+<h1 align="center"> 🟧 Unidad 2: Grupos de Variables Aleatorias. Funciones de una Variable Aleatoria </h1>
 
-Bienvenido a la Unidad 2 del Portafolio Digital de Teoría de la Programación.  
-En esta sección se presentan los contenidos organizados en archivos separados para una lectura clara y ordenada.
-
----
-
-### 📑 Contenidos de la Unidad 2
-
-- [Estructuras condicionales (if, else, else-if)](UNIDAD2/condicionales.md)
-
-- [Estructuras repetitivas (while, do-while, for)](UNIDAD2/bucles.md)
-
-- [Ejercicio combinando estructura condicional y repetitiva](UNIDAD2/ejercicio_combinado.md)
-
-- [Principales dificultades](UNIDAD2/dificultades.md)
-
-- [Reflexión crítica](UNIDAD2/reflexion.md)
-
-- [Tareas Entregadas](UNIDAD2/tareas.md)
- 
----
-
-- [⬅️ Volver al índice del Portafolio](index.md)
+> **Bienvenido al repositorio de evidencias.**
+> Este espacio documenta la aplicación práctica de conceptos sobre variables aleatorias y sus funciones. Aquí encontrarás el desarrollo, análisis y resolución de las **Actividades de Aprendizaje Práctico Experimental (APE)** correspondientes a esta unidad.
 
 ---
 
-> *“Las estructuras de control permiten que un programa tome decisiones y repita acciones; allí comienza la verdadera lógica de la programación.”*
+### 🚀 Acceso Directo a Actividades (APE)
+
+| Actividad | Descripción | Enlace al Notebook |
+| :--- | :--- | :--- |
+| **APE 06** | Distribuciones Continuas Notables.| [💻 Ver Notebook](UNIDAD2/APE06_GrupoC.ipynb) |
+| **APE 07** | Distribuciones Muestrales y Teorema del Límite Central (TLC) mediante Simulación Estocástica | [💻 Ver Notebook](UNIDAD2/APE07_GrupoC.ipynb) |
+| **APE 08** | Inferencia Estadística: Estimación de Parámetros e Intervalos de Confianza (Z y T de Student)| [💻 Ver Notebook](UNIDAD2/APE08_GrupoC.ipynb) |
+| **APE 09** | Inferencia Estadística: Pruebas de Hipótesis Paramétricas (Z y T) y Análisis del Valor-p | [💻 Ver Notebook](UNIDAD2/APE09_GrupoC.ipynb) |
+| **APE 10** | Inferencia Estadística Multigrupo: Análisis de Varianza (ANOVA de 1 factor) y Pruebas Post-Hoc (Tukey)| [💻 Ver Notebook](UNIDAD2/APE10_GrupoC.ipynb) |
+
+---
+
+<div align="center">
+  
+[⬅️ Volver al Índice Principal](index.md)
+
+---
+*“La lógica de las variables aleatorias es el pilar para comprender los modelos probabilísticos complejos.”*
+</div>

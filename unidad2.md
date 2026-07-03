@@ -1,7 +1,7 @@
 <h1 align="center"> 🟧 Unidad 2: Grupos de Variables Aleatorias. Funciones de una Variable Aleatoria </h1>
 
-> **Bienvenido al repositorio de evidencias.**
-> Este espacio documenta la aplicación práctica de conceptos sobre variables aleatorias y sus funciones. Aquí encontrarás el desarrollo, análisis y resolución de las **Actividades de Aprendizaje Práctico Experimental (APE)** correspondientes a esta unidad.
+**Bienvenido al repositorio de evidencias.**
+Este espacio documenta la aplicación práctica de conceptos sobre variables aleatorias y sus funciones. Aquí encontrarás el desarrollo, análisis y resolución de las **Actividades de Aprendizaje Práctico Experimental (APE)** correspondientes a esta unidad.
 
 ---
 
@@ -17,6 +17,15 @@
 
 ---
 
+### 🧠 Reflexión y Aprendizaje Académico
+La segunda unidad fue crucial para mi madurez analítica como futuro ingeniero:
+
+* **Dominio de Variables Aleatorias:** Comprendí que en sistemas complejos los componentes no pueden analizarse de forma aislada; la interdependencia es lo que define el comportamiento estadístico real.
+* **Funciones de Variables:** Aprender a transformar variables aleatorias me permitió encontrar patrones estadísticos que, a simple vista, resultan invisibles.
+* **Aplicabilidad en el Mundo Real:** Al realizar los APEs, conecté la teoría con problemas de optimización de recursos y análisis de variabilidad, esenciales en el desarrollo de software.
+* **Responsabilidad Profesional:** Ya no se trata solo de "resolver", sino de entender el *porqué* estadístico, reforzando mi responsabilidad al presentar datos que sustentan decisiones críticas.
+
+---
 <div align="center">
   
 [⬅️ Volver al Índice Principal](index.md)

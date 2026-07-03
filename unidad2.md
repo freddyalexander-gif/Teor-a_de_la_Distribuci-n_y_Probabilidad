@@ -16,6 +16,14 @@ Este espacio documenta la aplicación práctica de conceptos sobre variables ale
 | **APE 10** | Inferencia Estadística Multigrupo: Análisis de Varianza (ANOVA de 1 factor) y Pruebas Post-Hoc (Tukey)| [💻 Ver Notebook](UNIDAD2/APE10_GrupoC.ipynb) |
 
 ---
+### 🚀 Acceso Directo al Examen (ES)
+
+| Actividad | Descripción | Enlace al Notebook |
+| :--- | :--- | :--- |
+| **UNIDAD 2** | Evaluación Sumativa Unidad 02: Inferencia Estadística y Diagnóstico Paramétrico (ABP). Descripción de la sección.| [💻 Ver Notebook](UNIDAD2/APE06_GrupoC.ipynb) |
+
+
+---
 
 ### 🧠 Reflexión y Aprendizaje Académico
 La segunda unidad fue crucial para mi madurez analítica como futuro ingeniero:

@@ -20,7 +20,7 @@ Este espacio documenta la aplicación práctica de conceptos sobre variables ale
 
 | Actividad | Descripción | Enlace al Notebook |
 | :--- | :--- | :--- |
-| **UNIDAD 2** | Evaluación Sumativa Unidad 02: Inferencia Estadística y Diagnóstico Paramétrico (ABP). Descripción de la sección.| [💻 Ver Notebook](UNIDAD2/APE06_GrupoC.ipynb) |
+| **UNIDAD 2** | Evaluación Sumativa Unidad 02: Inferencia Estadística y Diagnóstico Paramétrico (ABP). Descripción de la sección.| [💻 Ver Notebook](UNIDAD2/ExamenU2_FreddyOrdoñez.ipynb) |
 
 
 ---

@@ -14,9 +14,10 @@
 ---
 
 ## 📂 Portafolio Digital de Aprendizaje
-> El presente repositorio constituye un portafolio digital de evidencias, diseñado para documentar de manera sistemática el proceso de aprendizaje en la asignatura de **Teoría de la Probabilidad y Distribución**.
 
-> Este espacio tiene como propósito fundamental registrar y consolidar las **Actividades de Aprendizaje Práctico Experimental (APE)**, reflejando la aplicación técnica de los conceptos teóricos abordados en clase. A través de este entorno, se evidencia la resolución de problemas, el modelado probabilístico y la experimentación con variables aleatorias, permitiendo un seguimiento claro de mi desarrollo competencial a lo largo del ciclo académico.
+El presente repositorio constituye un portafolio digital de evidencias, diseñado para documentar de manera sistemática el proceso de aprendizaje en la asignatura de **Teoría de la Probabilidad y Distribución**.
+
+Este espacio tiene como propósito fundamental registrar y consolidar las **Actividades de Aprendizaje Práctico Experimental (APE)**, reflejando la aplicación técnica de los conceptos teóricos abordados en clase. A través de este entorno, se evidencia la resolución de problemas, el modelado probabilístico y la experimentación con variables aleatorias, permitiendo un seguimiento claro de mi desarrollo competencial a lo largo del ciclo académico.
 
 ### 🧩 Unidades del Portafolio
 *Selecciona una unidad para inspeccionar las actividades de aprendizaje práctico experimental (APE):*
@@ -37,11 +38,11 @@
 </table>
 
 ## 📘 Conclusiones
-> El desarrollo de este portafolio ha permitido consolidar los conocimientos teóricos adquiridos en la asignatura de **Teoría de la Probabilidad y Distribución**, transformándolos en habilidades prácticas mediante el uso de herramientas computacionales. A través de las **Actividades de Aprendizaje Práctico Experimental (APE)**, se concluye lo siguiente:
+El desarrollo de este portafolio ha permitido consolidar los conocimientos teóricos adquiridos en la asignatura de **Teoría de la Probabilidad y Distribución**, transformándolos en habilidades prácticas mediante el uso de herramientas computacionales. A través de las **Actividades de Aprendizaje Práctico Experimental (APE)**, se concluye lo siguiente:
 
-> * **Aplicabilidad técnica:** La implementación de modelos probabilísticos mediante programación permite una comprensión profunda de cómo la estadística sustenta la toma de decisiones en el ámbito de la computación.
-> * **Pensamiento analítico:** El estudio de variables aleatorias y sus funciones ha fortalecido mi capacidad para modelar sistemas bajo incertidumbre, un pilar fundamental en la ingeniería de software y el análisis de datos.
-> * **Integración de herramientas:** El uso sistemático de entornos de desarrollo (como Google Colab y Python) ha optimizado mi flujo de trabajo, permitiendo una documentación más técnica y reproducible.
+ * **Aplicabilidad técnica:** La implementación de modelos probabilísticos mediante programación permite una comprensión profunda de cómo la estadística sustenta la toma de decisiones en el ámbito de la computación.
+* **Pensamiento analítico:** El estudio de variables aleatorias y sus funciones ha fortalecido mi capacidad para modelar sistemas bajo incertidumbre, un pilar fundamental en la ingeniería de software y el análisis de datos.
+ * **Integración de herramientas:** El uso sistemático de entornos de desarrollo (como Google Colab y Python) ha optimizado mi flujo de trabajo, permitiendo una documentación más técnica y reproducible.
 
 ---
 
